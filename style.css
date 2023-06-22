@@ -99,7 +99,7 @@ body {
 
 .orders-img {
   position: absolute;
-  height: 444px;
+  height: 470px; /* Had to change to show full box shadow */
   left: 479px;
   right: 737px;
   top: 913px;
@@ -107,7 +107,7 @@ body {
 
 .home-img {
   position: absolute;
-  height: 444px; 
+  height: 470px; /* Had to change to show full box shadow */
   left: 995px;
   right: 221px;
   top: 908px;
