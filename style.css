@@ -115,7 +115,7 @@ body {
 
 .cart-img {
   position: absolute;
-  height: 444px; 
+  height: 222px; /* Had to cut in half */
   left: 221px;
   right: 995px;
   top: 1157px;
@@ -123,7 +123,7 @@ body {
 
 .product-img {
   position: absolute;
-  height: 444px;
+  height: 222px; /* Had to cut in half */
   left: 737px;
   right: 479px;
   top: 1157px;
