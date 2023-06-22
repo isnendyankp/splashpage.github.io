@@ -76,3 +76,11 @@ body {
   width: 158.19px;
   height: 48.28px;
 }
+
+.main-image-container {
+  position: absolute;
+  width: 535.72px;
+  height: 309.27px;
+  left: 683.28px;
+  top: 229.73px;
+}
