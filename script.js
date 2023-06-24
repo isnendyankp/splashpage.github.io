@@ -1,6 +1,11 @@
 const { body } = document;
 
 function changeBackground(number) {
+    // Check if background already showing
+    let previousBackground;
+    if (body.className) {
+        previousBackground = body.className;
+    }
     // Reset background
     body.className = '';
     switch (number) {
